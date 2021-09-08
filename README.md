@@ -13,9 +13,6 @@
   <a href="www.linkedin.com/in/harsha-rv">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-    <a href="github.com/rv-harsha">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;&nbsp;
 </p>
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=rv-harsha&theme=dark&show_icons=true&count_private=true" />

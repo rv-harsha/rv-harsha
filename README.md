@@ -1,4 +1,4 @@
-# rv-harsha.
+# Raidurgam Venkat Harsha
 
 - 👋 Hi, I’m @rv-harsha
 - 👀 I’m interested in solving machine learning and deep learning problems. It fascainates how software technologies are evolving to solve complex problems. 
@@ -12,6 +12,9 @@
   </a>&nbsp;&nbsp;
   <a href="www.linkedin.com/in/harsha-rv">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="rv-harsha.github.io">
+    <img src=" https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 <p align='center'>

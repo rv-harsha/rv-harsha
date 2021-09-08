@@ -1,6 +1,6 @@
-# rv-harsha.
+# Hi, this is Harsha here .. 
 
-- 👋 Hi, I’m @rv-harsha
+- 👋 I’m @rv-harsha
 - 👀 I’m interested in solving machine learning and deep learning problems. It fascainates how software technologies are evolving to solve complex problems. 
 - 🌱 I’m currently focussing on GANs for face2face AI and Face forensics for fake face generation, detection and verification. 
 - 💞️ I’m looking to collaborate on software applications in ML and DL for face forensics.
@@ -22,7 +22,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rv-harsha&theme=dark&langs_count=8&exclude_repo=rv-harsha.github.io"/>
 </p>
-
 
 <!---
 rv-harsha/rv-harsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

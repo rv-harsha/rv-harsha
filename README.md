@@ -20,7 +20,7 @@
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=rv-harsha&theme=dark&show_icons=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rv-harsha&hide=notebook&theme=dark&langs_count=8&exclude_repo=rv-harsha.github.io"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rv-harsha&theme=dark&langs_count=8&exclude_repo=rv-harsha.github.io"/>
 </p>
 
 <!---

@@ -1,9 +1,9 @@
-# Hi, this is Harsha here .. 
+# About me ..
 
-- 👋 I’m @rv-harsha
-- 👀 I’m interested in solving machine learning and deep learning problems. It fascainates how software technologies are evolving to solve complex real world challenges. 
-- 🌱 I’m a passionate, self-learnt software engineer.
-- 💞️ I’m looking to collaborate on software applications in ML and DL for face forensics.
+- 👋 Hello.
+- 👀 I’m a passionate, curious and self-driven software engineer currently exploring emerging AI technologies in Machine Learning and Deep Learning.  
+- 🌱 It fascainates how software technologies are evolving to solve complex real world challenges. Positvely looking forward to be a part of it. 
+- 💞️ I’m looking to collaborate on software applications in Web, Integration, ML, and DL.
  Connect with me over LinkedIn or Gmail
 - 📫 You can reach me over mail - harsha.rv67@gmail.com 
 <p align='center'>

@@ -21,10 +21,10 @@
 </p>
 <!--- p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=rv-harsha&theme=dark&show_icons=true&count_private=true" />
-  <br/-->
+  <br/>
   <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rv-harsha&theme=dark&hide=jupyter%20notebook&exclude_repo=rv-harsha.github.io"/>
-</p>
+</p-->
 
 <!---
 rv-harsha/rv-harsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

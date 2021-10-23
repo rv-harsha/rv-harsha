@@ -1,10 +1,12 @@
 # About me ..
 
 - 👋 Hello.
-- 👀 I’m a passionate, curious and self-driven software engineer currently exploring emerging AI technologies in Machine Learning and Deep Learning.  
-- 🌱 It fascainates how software technologies are evolving to solve complex real world challenges. Positvely looking forward to be a part of it. 
-- 💞️ I’m looking to collaborate on software applications in Web, Integration, ML, and DL.
- Connect with me over LinkedIn or Gmail
+- 👀 I’m a passionate, curious and self-driven software engineer currently exploring 
+     emerging AI technologies.  
+- 🌱 It fascainates how software technologies are evolving to solve complex real world challenges. 
+     Positvely looking forward to be a part of it. 
+- 💞️ I’m looking to collaborate on software applications in WebTech, Integrations, ML, and DL.
+     Connect with me over LinkedIn or Gmail.
 - 📫 You can reach me over mail - harsha.rv67@gmail.com 
 <p align='center'>
 <a href='mailto:harsha.rv67@gmail.com'>

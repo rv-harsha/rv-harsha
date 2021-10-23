@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rv-harsha&theme=dark&show_icons=true&count_private=true" />
   <br/-->
   <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rv-harsha&theme=dark&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rv-harsha&theme=dark&langs_count=6&hide=jupyter%20notebook"/>
 </p>
 
 <!---
